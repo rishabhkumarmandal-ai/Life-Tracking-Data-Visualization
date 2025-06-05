@@ -39,7 +39,7 @@
 
 ## 📸 Preview
 
-![Dashboard Screenshot](./screenshot-dashboard.png)
+![Dashboard Screenshot]([./screenshot-dashboard.png](https://github.com/rishabhkumarmandal-ai/Life-Tracking-Data-Visualization/blob/main/Screenshot%202025-06-05%20205934.png))
 
 
 ---
