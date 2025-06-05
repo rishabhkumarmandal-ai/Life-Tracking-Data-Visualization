@@ -39,7 +39,8 @@
 
 ## 📸 Preview
 
-![Dashboard Preview](https://github.com/your-username/your-repo/assets/preview-dashboard.gif)
+![Dashboard Screenshot](./screenshot-dashboard.png)
+
 
 ---
 
@@ -48,7 +49,7 @@
 | Frontend       | Backend / Logic   | Integrations       | Visuals         |
 |----------------|-------------------|--------------------|-----------------|
 | React + Tailwind (WIP) | Python (Streamlit) | Google Sheets API | Plotly, Chart.js |
-| HTML/CSS       | Pandas            | Firebase (WIP)     | Recharts        |
+| TypeScript       | Pandas            | Firebase (WIP)     | Recharts        |
 
 ---
 
