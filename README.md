@@ -39,7 +39,7 @@
 
 ## 📸 Preview
 
-![Dashboard Screenshot]([./screenshot-dashboard.png](https://github.com/rishabhkumarmandal-ai/Life-Tracking-Data-Visualization/blob/main/Screenshot%202025-06-05%20205934.png))
+([./screenshot-dashboard.png](https://github.com/rishabhkumarmandal-ai/Life-Tracking-Data-Visualization/blob/main/Screenshot%202025-06-05%20205934.png)
 
 
 ---
@@ -57,7 +57,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/mylife-dashboard.git
+git clone https://github.com/rishabhkumarmandal/Life-tracking-data-visualization.git
 
 # 2. Change directory
 cd mylife-dashboard
